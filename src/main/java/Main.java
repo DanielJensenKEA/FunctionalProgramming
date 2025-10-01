@@ -2,6 +2,7 @@ public class Main {
     public interface ZeroArgument {
         public void myFunc();
     }
+    //
     public interface OneArgument {
         public void myFunc(String str);
     }
